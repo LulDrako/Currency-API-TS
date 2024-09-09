@@ -13,7 +13,7 @@
 1. **Cloner le Dépôt** :
 
    ```bash
-   git clone https://github.com/ismaa2k/Project_API.1-B2
+   git clone https://github.com/LulDrako/Currency-API-TS
    cd project_api-doc
    ```
 
